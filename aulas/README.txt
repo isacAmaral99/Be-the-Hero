@@ -1,0 +1,1 @@
+Ola, esta é uma pasta sobre uma semana de conteudo que participei, semana OmniStack 11, o meu primeiro projeto back end com js e node js, e primeira aplicaçao mobile, assim como primeiro projeto completo tendo todos os ambientes, mobile, desketop e web.
